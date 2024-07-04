@@ -10,7 +10,7 @@ setuptools.setup(
     author_email="alexandre.brilhante@gmail.com",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/alexandrebrilhante/quantnet",
+    url="https://github.com/alexandrebrilhante/template-py",
     project_urls={
         "Bug Tracker": "https://github.com/alexandrebrilhante/template-py/issues",
     },
